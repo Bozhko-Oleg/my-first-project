@@ -1,3 +1,13 @@
+# Txt-files
+.Txt
+!plans.Txt
+
+# Passwords
+my-password.Txt
+
+# Secret file
+secret.md
+
 # Logs
 logs
 *.log
